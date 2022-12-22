@@ -21,7 +21,7 @@ export default function AboutUs(){
         <div className="container">
             <Common/>
             <AppHeader/>
-            <div style={{height: "500px"}}>Coming soon...</div>
+            <div style={{height: "500px"}}>Coming soon.....</div>
             <AppFooter/>
         </div>
     )
